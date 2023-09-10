@@ -18,6 +18,8 @@ Implemented conditional rendering to display either character or comic data base
 Integrated React Router for navigation to character detail pages.
 Implemented a basic search bar
 
+Link (to the hosted website):
+https://marvel-explorer-lw0yy3cso-mohan-ka.vercel.app/
 
 Tech Stack Used:
 
