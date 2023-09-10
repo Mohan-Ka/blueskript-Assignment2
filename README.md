@@ -1,5 +1,13 @@
 # blueskript-Assignment2
 
+STEPS TO INSTALL YOUR PROJECT LOCALLY: step1) Before you start, install nodejs and npm.
+
+step2) Open your terminal or cmd and type npx create-react-app my-app to create a new app (you can put yur app name in place of "my-app").
+
+step3) Change your directory by typing "cd my-app".
+
+step4) Start the developer server by typing "npm start".
+
 
 
 Tasks Implemented (list):
